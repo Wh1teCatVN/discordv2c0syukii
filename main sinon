@@ -1,0 +1,93 @@
+
+@import url(https://raw.githubusercontent.com/Wh1teCatVN/discordv2c0syukii/refs/heads/main/load);
+@import url(https://raw.githubusercontent.com/Wh1teCatVN/discordv2c0syukii/refs/heads/main/rings); 
+@import url(https://feorev.github.io/Themes/Discord/FVUI/assets/Versions/v2.css);
+@import url(https://feorev.github.io/Themes/Discord/FVUI/assets/SubThemes/CustomBackground.css);
+@import url(https://feorev.github.io/Themes/Discord/FVUI/Addons/Events/Events.css);
+@import url(https://feorev.github.io/Themes/Discord/FVUI/Addons/RadialStatus.css);
+@import url(https://feorev.github.io/Themes/Discord/FVUI/Addons/MaterialYou.css);
+@import url(https://feorev.github.io/Themes/Discord/FVUI/Addons/ModularDesign.css);
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Samsung.css);
+@import url('https://fonts.googleapis.com/css2?family=Lexend&display=swap%27');
+:root{
+	--FVUI    : "c0SYUKII Right Her :3"!important;
+	--cursor  : url('https://feorev.github.io/Themes/Discord/FVUI/assets/Cursor.cur'); 
+	--font    : "Lexend";                                                                 
+	--homeicon: url("https://imgur.com/tqNsNeC.png"); 
+}
+
+:root{
+    --ColorOpacity  : 1;  
+    --DisableOpacity: 0;  
+}
+
+:root.theme-dark {
+	--color1: 30, 40,  50;   
+	--color2: 1,  62,  92;   
+	--color3: 3,  195, 253;  
+	--color4: 40, 100, 150; 
+}
+:root.theme-light {
+	--color1: 1,  62,  92;   
+	--color2: 3,  195, 253;  
+	--color3: 96, 205, 255;  
+	--color4: 63, 43,  150; 
+}
+
+:root{
+	--DarkBG   : url(https://imgur.com/nwYLe8t.jpg);  
+	--LightBG  : url(https://imgur.com/nwYLe8t.jpg);  
+	--OpacityBG: 30%;                                                                         
+	--BlurBG   : 0px;
+
+:root{
+	--BGopacity: 30%;            
+	--BGcolor  : var(--color2);  
+}
+
+
+
+/
+:root.theme-dark{ 
+	--accentcolor-HUE: 199;
+	--accentcolor-SATURATION: 69%;
+}
+:root.theme-light{ 
+	--accentcolor-HUE: 185;
+	--accentcolor-SATURATION: 90%;
+}
+
+	
+:root{ 
+	--outline    : 3px;            
+	--outlineCLR : var(--color3);  
+	--outlineBR  : 32px;          
+	--outlineMG  : 2rem;          
+	--outlineBS  : 15px;         
+	--outlineBG  : rgb(0,0,0);     
+	--outlineBLUR: blur(8px);     
+}
+
+:root {
+  --server-unread-colour  : 194, 240, 255;
+  --server-hover-colour   : 99,  185, 255;
+  --server-selected-colour: var(--accent, 0, 123, 231);
+  --server-spacing        : 15px;
+  --server-glow-intensity : var(--glow-intensity, 1);
+  --server-size           : 48px;
+}
+
+:root{ 
+	--outline2    : 0px;                
+	--outlineCLR2 : var(--outlineCLR);  
+	--outlineBR2  : var(--outlineBR);   
+	--outlineMG2  : var(--outlineMG);   
+	--outlineBS2  : 0px;                
+	--outlineBG2  : unset;              
+	--outlineBLUR2: 0px               
+}
+
+
+.pictureInPicture_e0c856:not(:has(.iframe_d5ef29))::after {
+	content    : "c0SYUKII"; 
+}
