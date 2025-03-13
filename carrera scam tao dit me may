@@ -1,0 +1,51 @@
+@import url('https://raw.githubusercontent.com/Wh1teCatVN/discordv2c0syukii/refs/heads/main/load');
+@import url('https://raw.githubusercontent.com/Wh1teCatVN/ditmecarrera/refs/heads/main/aa');
+@import url('https://raw.githubusercontent.com/Wh1teCatVN/ditmecarrera/refs/heads/main/bb');
+@import url('https://raw.githubusercontent.com/Wh1teCatVN/ditmecarrera/refs/heads/main/aaa');
+@import url('https://raw.githubusercontent.com/Wh1teCatVN/discordv2c0syukii/refs/heads/main/ditmenhatnam');
+@import url('https://raw.githubusercontent.com/Wh1teCatVN/discordv2c0syukii/refs/heads/main/%C4%91%E1%BA%A1p%20m%E1%BA%B9%20nh%E1%BA%ADt%20nit');
+@import url('https://raw.githubusercontent.com/Wh1teCatVN/discordv2c0syukii/refs/heads/main/conchocarrera');
+@import url(https://raw.githubusercontent.com/Wh1teCatVN/ditmecarrera/refs/heads/main/ditmemay%20nhatnam);
+:root{
+    --ML-border-radius:16px; 
+    --ML-member-background: var(--opacity01a); 
+    --ML-role-background: var(--opacity02a); 
+}
+
+:root {
+  --undefined: 0;
+  --color1: 30, 40, 50;
+  --color2: 9, 18, 24;
+  --color3: 35, 120, 200;
+  --undefined: 0;
+  --ColorOpacity: 1;
+  --DisableOpacity: 0;
+  --cursor: url('https://feorev.github.io/Themes/Discord/FVUI/assets/Cursor.cur');
+  --font: Comfortaa;
+  --homeicon: url('https://imgur.com/7tnqcXx.png');
+  --undefined: 0;
+  --FVUI: "Carrera";
+  --customdesc: "carrera dit con me may";
+  --image: url('https://imgur.com/nGuiJp7.png');
+  --OpacityBG: 60%;
+  --BlurBG: 0px;
+  --accentcolor-HUE: 45;
+  --accentcolor-SATURATION: 110%;
+  --undefined: 0;
+  --undefined: 0;
+  --outline: 3px;
+  --outlineCLR: var(--color03);
+  --outlineBR: 28px;
+  --outlineMG: 2rem;
+  --outlineBS: 16px;
+  --outlineBG: var(--color1), .5;
+  --outlineBLUR: 0;
+  --undefined: 0;
+  --outline2: 0px;
+  --outlineCLR2: var(--outlineCLR);
+  --outlineBR2: var(--outlineBR);
+  --outlineMG2: var(--outlineMG);
+  --outlineBS2: unset;
+  --outlineBG2: unset;
+  --outlineBLUR2: 0px;
+}
