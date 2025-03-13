@@ -85,8 +85,8 @@
 /*----------  Keyframes  ----------*/
 @keyframes loaderr{
   to{
-    --version      : "Make sure you used at least one of the subthemes OR did not break the syntax. If this doesn't help, reinstall the theme.";
-    --FVUI         : "Error.";
+    --version      : "cái địt con mẹ đã bảo là đừng sửa cái lồn gì cả.";
+    --FVUI         : "lỗi ở đâu đấy rồi đéo biết.";
     pointer-events : none;
     backdrop-filter: none;
     background     : var(--opacity02b);
