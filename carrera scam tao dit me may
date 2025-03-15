@@ -26,7 +26,7 @@
   --undefined: 0;
   --FVUI: "Carrera";
   --customdesc: "carrera dit con me may";
-  --image: url('https://imgur.com/nGuiJp7.png');
+  --image: url('https://imgur.com/AWS1Iyo.png');
   --OpacityBG: 60%;
   --BlurBG: 0px;
   --accentcolor-HUE: 45;
