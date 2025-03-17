@@ -85,7 +85,7 @@
 /*----------  Keyframes  ----------*/
 @keyframes loaderr{
   to{
-    --version      : "cái địt con mẹ đã bảo là đừng sửa cái lồn gì cả.";
+    --version      : "host die, liên hệ c0SYUKII để gia hạn host.";
     --FVUI         : "lỗi ở đâu đấy rồi đéo biết.";
     pointer-events : none;
     backdrop-filter: none;
